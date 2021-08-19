@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>contribute on Gravity</title>
+    <link>https://gohugo.io/categories/contribute/</link>
+    <description>Recent content in contribute on Gravity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://gohugo.io/categories/contribute/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contribute to the Hugo Project</title>
+      <link>https://gohugo.io/contribute/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo.io/contribute/</guid>
+      <description>我们欢迎您以任何形式对重力中文社区做贡献，包含但不限于Email 站长Gravpher
+，在github中提交issue，或提交PR</description>
+    </item>
+    
+  </channel>
+</rss>

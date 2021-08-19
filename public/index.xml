@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gravity – 重力与大地测量中文社区</title>
+    <link>https://gohugo.io/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 12:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://gohugo.io/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>https://gohugo.io/</link>
+    </image>
+    
+	<atom:link href="https://gohugo.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News: </title>
+      <link>https://gohugo.io/news/gravitychina_is_coming/</link>
+      <pubDate>Sun, 01 Aug 2021 18:36:00 +0200</pubDate>
+      
+      <guid>https://gohugo.io/news/gravitychina_is_coming/</guid>
+      <description>
+        
+        
+        &lt;p&gt;建站的初衷是构建中国最大的重力与大地测量研究学习交流社区，本站主要维护重力软件中文文档，重力开源软件，研究论文代码等项目，如有更好地建议，欢迎提交PR。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

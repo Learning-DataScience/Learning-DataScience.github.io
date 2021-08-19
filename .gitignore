@@ -1,6 +1,4 @@
-/.idea
-/public
-node_modules
-nohup.out
-.DS_Store
-trace.out
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
